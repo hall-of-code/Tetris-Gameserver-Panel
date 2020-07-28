@@ -2,4 +2,4 @@ Tetris ist currently under Development.
 
 It's going to supports the creating and Managing Minecraft Servers with and without Docker.
 
-![alt text](dfwfdw.png)
+![alt text](/dfwfdw.png)
